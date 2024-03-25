@@ -1,4 +1,4 @@
-package com.nguyenuyennhi.charmsiestore;
+package com.charmsie.store;
 
 import android.content.Context;
 

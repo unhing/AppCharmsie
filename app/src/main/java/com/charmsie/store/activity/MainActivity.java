@@ -1,10 +1,10 @@
-package com.nguyenuyennhi.charmsiestore.activity;
+package com.charmsie.store.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.nguyenuyennhi.charmsiestore.R;
+import com.charmsie.store.R;
 
 public class MainActivity extends AppCompatActivity {
 

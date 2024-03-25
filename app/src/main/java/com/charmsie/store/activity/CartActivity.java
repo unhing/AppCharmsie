@@ -1,11 +1,11 @@
-package com.nguyenuyennhi.charmsiestore.activity;
+package com.charmsie.store.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.nguyenuyennhi.charmsiestore.R;
-import com.nguyenuyennhi.charmsiestore.databinding.ActivityCartBinding;
+import com.charmsie.store.R;
+import com.charmsie.store.databinding.ActivityCartBinding;
 
 public class CartActivity extends AppCompatActivity {
     ActivityCartBinding binding;

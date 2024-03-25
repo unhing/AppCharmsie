@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.nguyenuyennhi.charmsiestore"
+    namespace = "com.charmsie.store"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.nguyenuyennhi.charmsiestore"
+        applicationId = "com.charmsie.store"
         minSdk = 30
         targetSdk = 34
         versionCode = 1
