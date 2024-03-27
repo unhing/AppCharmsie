@@ -11,7 +11,7 @@
         android:id="@+id/view2"
         android:layout_width="70dp"
         android:layout_height="70dp"
-        android:background="@drawable/white_rounded_rectangle"
+        android:background="@drawable/bg_white_rounded_rectangle"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginBottom="8dp"
